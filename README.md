@@ -169,4 +169,4 @@ The recognizable commands by the interpreter are the following:
 
 ## Author
 
-Nelson Oluwarotimi and Daniel Seyi
+Daniel Seyi and Nelson Oluwarotimi
